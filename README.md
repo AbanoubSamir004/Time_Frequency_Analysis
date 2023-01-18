@@ -10,4 +10,6 @@ This repository contains code for an Time Frequency analysis of random time data
 
 - Data visualization: The spectrogram is often visualized using a heatmap, where the color represents the amplitude of the frequency content at each point in time.
 
+- ITPC: The intertrial phase coherence (ITPC) is a measure of the consistency of the phase of a neural response across trials. The ITPC is computed by averaging the absolute value of the complex-valued mean of the cross-trial phase difference between the response and a reference signal.
+
 ![ff562104-7ffd-4ab5-a651-af243d004e5f](https://user-images.githubusercontent.com/60902991/212781411-4336ebef-1d17-4a2d-84c6-1b8cac541623.png)
